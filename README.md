@@ -33,12 +33,14 @@ Users should be able to:
 
 ### Mobile
 
-![Mobile](./screenshots/Screenshot-Mobile.png)
+<p align="center">
+  <img src="./screenshots/Screenshot-Mobile.png" alt="Mobile"/>
+</p>
 
 ### Links
 
 - Solution URL: [GitHub](https://github.com/MiguellPC/advice-generetor-app)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: [GitHub Pages](https://miguellpc.github.io/advice-generetor-app/)
 
 ## My process
 
@@ -47,6 +49,9 @@ Users should be able to:
 - Semantic HTML5 markup
 - CSS custom properties
 - Flexbox
+- JavaScript
+
+[![My Skills](https://skillicons.dev/icons?i=html,css,javascript)](https://skillicons.dev)
 
 ### What I learned
 
